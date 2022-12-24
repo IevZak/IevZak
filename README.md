@@ -25,9 +25,13 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IevZak-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yezakh)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IevZak-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yezakh)
 
-
+### :hammer_and_wrench: Tools and Languages :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+</div>
 <!--
 **IevZak/IevZak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
