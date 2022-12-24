@@ -2,9 +2,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">😎 Hey! I'm Ievgen</div>
-
-
+<div id="header" align="center"><b>😎 Hey! I'm Ievgen</b></div>
+<div id="badges" align="center">
+  <a href="linkedin.com/in/yezakh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[https://resume.io/r/fbQ2XlnB0">
+    <img src="https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=documents&logoColor=white" alt="Resume"/>
+  </a>
+ </div>
 
 
 
