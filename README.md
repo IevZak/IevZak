@@ -30,7 +30,8 @@
 ### :hammer_and_wrench: Tools and Languages :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux Mint" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/qajenna/qajenna/raw/main/icons/Android%20Studio.png" title="Android" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **IevZak/IevZak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
