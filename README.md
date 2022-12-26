@@ -51,5 +51,6 @@
   -  [Bug-Reports](https://ссылочку_сюда)
 - Collection In Postman 
   -  [e-commerse API](https://xmlqaauto.postman.co/workspace/eCommerce~8e9eb64f-0507-45bc-a9ab-a90f7d22bb9d/collection/19293116-9c123416-099c-4030-87e2-f60ec5930cfd?action=share&creator=19293116)
+- Script to check if system functionality
 
   
