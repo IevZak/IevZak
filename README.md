@@ -48,7 +48,8 @@
 - Test documentation
   -  [Chek-list](https://ссылочку_сюда)
   -  [Test-Cases](https://ссылочку_сюда)
-  -  [Bug-Reports](https://trello.com/c/mwsgzfoy)
+  -  [Bug-Reports](https://trello.com/invite/b/jWLDwXDP/ATTIe0915b2057fb3ee04b2bd672d4e3c46212FAF178/bug-report)
+
 - Collection In Postman 
   -  [e-commerse API](https://xmlqaauto.postman.co/workspace/eCommerce~8e9eb64f-0507-45bc-a9ab-a90f7d22bb9d/collection/19293116-9c123416-099c-4030-87e2-f60ec5930cfd?action=share&creator=19293116)
 - Script to check if system functionality
