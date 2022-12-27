@@ -46,10 +46,10 @@
 
 ## My portfolio
 - Test documentation
-  -  [Chek-list]()
-  -  [Test-Cases]()
   -  [Documentation](https://drive.google.com/file/d/14UZ_u_YEujtGT8AyA7h1xxpVoHmjHBHd/view?usp=share_link)
   -  [Bug-Reports](https://trello.com/invite/b/jWLDwXDP/ATTIe0915b2057fb3ee04b2bd672d4e3c46212FAF178/bug-report)
+  -  [Chek-list Coming soon] 
+  -  [Test-Cases Coming soon)
 
 - Collection In Postman 
   -  [e-commerse API](https://xmlqaauto.postman.co/workspace/eCommerce~8e9eb64f-0507-45bc-a9ab-a90f7d22bb9d/collection/19293116-9c123416-099c-4030-87e2-f60ec5930cfd?action=share&creator=19293116)
