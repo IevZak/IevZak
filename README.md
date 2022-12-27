@@ -19,7 +19,7 @@
 ## :man_technologist: About Me :
 <div id="header"><b>😎 Hey! I'm Ievgen. I am a QA Enginner - Software Testing and Verification Specialist with a Bachelor of Technology degree in Computer Systems and Engineering. I specialize in testing games, APIs, mobile and web applications.</b></div>
 
-- :telescope: I work as a Quality Control Engineer, and I am responsible for ensuring that the products being developed are of the right quality to meet business goals.
+- :telescope: I work as a QA Engineer, and I am responsible for ensuring that the products being developed are of the right quality to meet business goals.
 
 - :seedling: I investigate how the product being developed meets the expectations of users.
 
